@@ -10,6 +10,8 @@ Use the command
 composer update
 
 php artisan migrate
+
+php artisan jwt:secret
 ```
 
 ## To run locally
